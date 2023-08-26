@@ -7,3 +7,5 @@ function projectEulerOne() {
 }
 
 console.log(projectEulerOne())
+
+// Time: 0:44
